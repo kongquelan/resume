@@ -2,20 +2,20 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "周俊",
+        "name": "李平",
         "description": "加油 努力",
         "school": "西安电子科技大学",
         "profession": "计算机科学与技术",
-        "sex": "男",
-        "education" : "本科",
-        "workage": "2012届毕业",
+        "sex": "女",
+        "education" : "硕士",
+        "workage": "2015届毕业",
         "phone": "15088888888",
-        "email": "tonjayin@gmail.com"
+        "email": "heshunliping@163.com"
     },
     "social":[
         {
             "type": "github",
-            "link": "https://github.com/Jayin",
+            "link": "https://github.com/kongquelan",
             "icon": ""
         },
         {
@@ -42,18 +42,6 @@
     "Awards": [
         {
             "name": "中山大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
-        },
-        {
-            "name": "第X届XX杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
-        },
-        {
-            "name": "第X届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
-        },
-        {
-            "name": "201X百度校园助手大赛优秀开发奖"
-        },
-        {
-            "name": "201X华南XX杯广东省Java程序员竞赛三等奖"
         }
     ],
     "socialExperiences": [
