@@ -3,7 +3,7 @@
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
         "name": "李平",
-        "description": "加油 努力",
+        "description": "做一个合格的前端人",
         "school": "西安电子科技大学",
         "profession": "计算机科学与技术",
         "sex": "女",
@@ -41,7 +41,7 @@
     ],
     "Awards": [
         {
-            "name": "中山大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
+            "name": "西安电子科技大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
         }
     ],
     "socialExperiences": [
@@ -58,7 +58,7 @@
     ],
     "InternExperiences": [
         {
-            "name": "深圳XX网络科技有限公司",
+            "name": "上海XX网络科技有限公司",
             "name_link": "",
             "title": "前端开发工程师",
             "icon": "",
@@ -67,9 +67,9 @@
             "location": "广东 深圳"
         },
         {
-            "name": "深圳XXX网络科技有限公司",
+            "name": "上海XXX网络科技有限公司",
             "name_link": "",
-            "title": "PHP开发工程师",
+            "title": "前端开发工程师",
             "icon": "",
             "description": "基于开源商城系统OpenCart二次开发一外贸商城",
             "time": "2014.07 - 2014.08",
